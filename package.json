@@ -8,8 +8,10 @@
     "@testing-library/user-event": "^12.1.10",
     "@walletconnect/web3-provider": "^1.6.6",
     "big-number": "^2.0.0",
+    "history": "5",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-router-dom": "6",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.0.1",
     "web3": "^1.6.1"
